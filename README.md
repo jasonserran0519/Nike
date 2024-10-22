@@ -1,4 +1,4 @@
-# CSEN 60 Project: Website Replica
+# CSEN 60 Project: Nike Website Replica
 10/21/2024
 
 ## Group Member Names
