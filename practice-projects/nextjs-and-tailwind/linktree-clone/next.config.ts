@@ -3,7 +3,7 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   /* config options here */
   images: {
-    domains: ['cdninstagram.com'],
+    domains: ['scontent-sjc3-1.cdninstagram.com'],
   }
 };
 
