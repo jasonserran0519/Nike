@@ -54,7 +54,7 @@ export function LinkedinIcon() {
 
 function LinkCard({ href, title, image }: {
   href: string; 
-  title:string; 
+  title: string; 
   image?: string;
 }) {
   return(
