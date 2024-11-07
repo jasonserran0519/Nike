@@ -10,7 +10,6 @@
         {
             "title": "Vercel",
             "href": "https://vercel.com/"
-
         }
     ],
     "socials": [
@@ -19,8 +18,12 @@
             "href": "https://instagram.com/notsosuperkyle"
         },
         {
-            "title": "Youtube",
-            "href": "https://youtube.com"
+            "title": "Github",
+            "href": "https://github.com/ksamonte50"
+        },
+        {
+            "title": "LinkedIn",
+            "href": "https://www.linkedin.com/in/kyle-michael-samonte/"
         }
     ]
 }
